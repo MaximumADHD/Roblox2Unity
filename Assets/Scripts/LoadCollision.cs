@@ -7,14 +7,14 @@ public class LoadCollision : MonoBehaviour
     {
         foreach (MeshRenderer renderer in GameObject.FindObjectsOfType<MeshRenderer>())
         {
-			Transform parent = renderer.gameObject.transform.parent;
-			if (parent != null)
-			{
-            	if (renderer.gameObject.transform.parent.Equals(gameObject.transform))
-            	{
-                	renderer.gameObject.AddComponent<MeshCollider>();
-            	}
-			}
+		Transform parent = renderer.gameObject.transform.parent;
+		if (parent != null)
+		{
+            		if (renderer.gameObject.transform.parent.Equals(gameObject.transform))
+            		{
+                		renderer.gameObject.AddComponent<MeshCollider>();
+            		}
+		}
         }
     }
 }
