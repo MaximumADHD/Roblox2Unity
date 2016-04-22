@@ -1,0 +1,408 @@
+newmtl Base1Mtl
+Material Color
+Ka 0.156863 0.498039 0.278431
+Kd 0.156863 0.498039 0.278431
+Ks 0.0627451 0.199216 0.111373 
+
+d 1
+
+Ns 2295
+
+newmtl Block79Mtl
+Material Color
+Ka 0.796079 0.517647 0.258824
+Kd 0.796079 0.517647 0.258824
+Ks 0.318431 0.207059 0.103529 
+
+d 1
+
+Ns 2295
+
+newmtl Block1Mtl
+Material Color
+Ka 0.470588 0.564706 0.509804
+Kd 0.470588 0.564706 0.509804
+Ks 0.188235 0.225882 0.203922 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel7482Mtl
+Material Color
+Ka 0.501961 0.733333 0.858824
+Kd 0.501961 0.733333 0.858824
+Ks 0.200784 0.293333 0.343529 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel7290Mtl
+Material Color
+Ka 0 0.560784 0.611765
+Kd 0 0.560784 0.611765
+Ks 0 0.224314 0.244706 
+
+d 0.501961
+
+Ns 2295
+
+newmtl SmoothBlockModel7223Mtl
+Material Color
+Ka 0.631373 0.647059 0.635294
+Kd 0.631373 0.647059 0.635294
+Ks 0.252549 0.258824 0.254118 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel6936Mtl
+Material Color
+Ka 0.537255 0.529412 0.533333
+Kd 0.537255 0.529412 0.533333
+Ks 0.214902 0.211765 0.213333 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel2761Mtl
+Material Color
+Ka 0.454902 0.52549 0.615686
+Kd 0.454902 0.52549 0.615686
+Ks 0.181961 0.210196 0.246275 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel1775Mtl
+Material Color
+Ka 0.431373 0.6 0.792157
+Kd 0.431373 0.6 0.792157
+Ks 0.172549 0.24 0.316863 
+
+d 1
+
+Ns 2295
+
+newmtl Wookong1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 2295
+
+map_Ka Wookong1Tex.png
+map_Kd Wookong1Tex.png
+map_d Wookong1Tex.png
+
+newmtl Stoecker1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 2295
+
+map_Ka Stoecker1Tex.png
+map_Kd Stoecker1Tex.png
+map_d Stoecker1Tex.png
+
+newmtl SmoothBlockModel1220Mtl
+Material Color
+Ka 0.94902 0.952941 0.952941
+Kd 0.94902 0.952941 0.952941
+Ks 0.379608 0.381177 0.381177 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel1219Mtl
+Material Color
+Ka 0.898039 0.894118 0.87451
+Kd 0.898039 0.894118 0.87451
+Ks 0.359216 0.357647 0.349804 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel2893Mtl
+Material Color
+Ka 0 0.560784 0.611765
+Kd 0 0.560784 0.611765
+Ks 0 0.224314 0.244706 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel1217Mtl
+Material Color
+Ka 0.411765 0.25098 0.156863
+Kd 0.411765 0.25098 0.156863
+Ks 0.164706 0.100392 0.0627451 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel1026Mtl
+Material Color
+Ka 0.388235 0.372549 0.384314
+Kd 0.388235 0.372549 0.384314
+Ks 0.155294 0.14902 0.153726 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel2376Mtl
+Material Color
+Ka 0.584314 0.47451 0.466667
+Kd 0.584314 0.47451 0.466667
+Ks 0.233726 0.189804 0.186667 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel3Mtl
+Material Color
+Ka 0.105882 0.164706 0.207843
+Kd 0.105882 0.164706 0.207843
+Ks 0.0423529 0.0658824 0.0831373 
+
+d 1
+
+Ns 2295
+
+newmtl Pillar1Mtl
+Material Color
+Ka 0.627451 0.372549 0.207843
+Kd 0.627451 0.372549 0.207843
+Ks 0.25098 0.14902 0.0831373 
+
+d 1
+
+Ns 2295
+
+newmtl Matt1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 2295
+
+map_Ka Matt1Tex.png
+map_Kd Matt1Tex.png
+map_d Matt1Tex.png
+
+newmtl SmoothBlockModel1213Mtl
+Material Color
+Ka 0.152941 0.27451 0.176471
+Kd 0.152941 0.27451 0.176471
+Ks 0.0611765 0.109804 0.0705882 
+
+d 1
+
+Ns 2295
+
+newmtl Builderman1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 2295
+
+map_Ka Builderman1Tex.png
+map_Kd Builderman1Tex.png
+map_d Builderman1Tex.png
+
+newmtl SmoothBlockModel1021Mtl
+Material Color
+Ka 0.631373 0.768628 0.54902
+Kd 0.631373 0.768628 0.54902
+Ks 0.252549 0.307451 0.219608 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel2464Mtl
+Material Color
+Ka 0.486275 0.360784 0.27451
+Kd 0.486275 0.360784 0.27451
+Ks 0.19451 0.144314 0.109804 
+
+d 1
+
+Ns 2295
+
+newmtl Clockwork1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 2295
+
+map_Ka Clockwork1Tex.png
+map_Kd Clockwork1Tex.png
+map_d Clockwork1Tex.png
+
+newmtl SmoothBlockModel661Mtl
+Material Color
+Ka 0.294118 0.592157 0.294118
+Kd 0.294118 0.592157 0.294118
+Ks 0.117647 0.236863 0.117647 
+
+d 1
+
+Ns 2295
+
+newmtl Erik1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 2295
+
+map_Ka Erik1Tex.png
+map_Kd Erik1Tex.png
+map_d Erik1Tex.png
+
+newmtl SmoothBlockModel1019Mtl
+Material Color
+Ka 0.960784 0.803922 0.188235
+Kd 0.960784 0.803922 0.188235
+Ks 0.384314 0.321569 0.0752941 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel7649Mtl
+Material Color
+Ka 0.0509804 0.411765 0.67451
+Kd 0.0509804 0.411765 0.67451
+Ks 0.0203922 0.164706 0.269804 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel1Mtl
+Material Color
+Ka 0.0509804 0.411765 0.67451
+Kd 0.0509804 0.411765 0.67451
+Ks 0.0203922 0.164706 0.269804 
+
+d 0.701961
+
+Ns 2295
+
+newmtl SmoothBlockModel1944Mtl
+Material Color
+Ka 0.768628 0.156863 0.109804
+Kd 0.768628 0.156863 0.109804
+Ks 0.307451 0.0627451 0.0439216 
+
+d 1
+
+Ns 2295
+
+newmtl Ball1Mtl
+Material Color
+Ka 0.643137 0.741176 0.278431
+Kd 0.643137 0.741176 0.278431
+Ks 0.257255 0.296471 0.111373 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel1774Mtl
+Material Color
+Ka 0.705882 0.823529 0.894118
+Kd 0.705882 0.823529 0.894118
+Ks 0.282353 0.329412 0.357647 
+
+d 1
+
+Ns 2295
+
+newmtl Telamon1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 2295
+
+map_Ka Telamon1Tex.png
+map_Kd Telamon1Tex.png
+map_d Telamon1Tex.png
+
+newmtl Ball10Mtl
+Material Color
+Ka 0.8 0.556863 0.411765
+Kd 0.8 0.556863 0.411765
+Ks 0.32 0.222745 0.164706 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel2466Mtl
+Material Color
+Ka 0.639216 0.635294 0.647059
+Kd 0.639216 0.635294 0.647059
+Ks 0.255686 0.254118 0.258824 
+
+d 1
+
+Ns 2295
+
+newmtl SmoothBlockModel7481Mtl
+Material Color
+Ka 0.431373 0.6 0.792157
+Kd 0.431373 0.6 0.792157
+Ks 0.172549 0.24 0.316863 
+
+d 0.901961
+
+Ns 2295
+
+newmtl SmoothBlockModel667Mtl
+Material Color
+Ka 0.843137 0.772549 0.603922
+Kd 0.843137 0.772549 0.603922
+Ks 0.337255 0.30902 0.241569 
+
+d 1
+
+Ns 2295
+
